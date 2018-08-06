@@ -14,6 +14,6 @@ public void TEST0001() {
              rg.emailDoldur();
              rg.sifreDoldur();
              rg.girisYap();
-             as.search("Iphone SE");
+             as.search("Samsung Galaxy S8");
  }
 }
